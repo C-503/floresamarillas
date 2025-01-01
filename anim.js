@@ -4,9 +4,9 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "i modeun geon uyeoni anya", time: 2.5 },
+  { text: "i modeun geon uyeoni anya", time: 2 },
   { text: "geunyang geunyang naui neukkimeuro", time: 5 },
-  { text: "on sesang-i eojewan dalla", time: 7 },
+  { text: "on sesang-i eojewan dalla", time: 10 },
   { text: "geunyang geunyang neoui gippeumeuro", time: 14 },
   { text: "niga nal bulleosseul ttae", time: 18 },
   { text: "naneun neoui kkocheuro", time: 20 },
